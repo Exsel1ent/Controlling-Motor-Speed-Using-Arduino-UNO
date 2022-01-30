@@ -6,3 +6,4 @@ This is one of the most important parts of my Final Year Project, my project is 
 3. The rotor that I use is a fixed angle type which has 6 holes
 4. I use the infrared sensor as a tachometer to count the number of motor rotation
 5. I use the serial monitor to take motor speed data every second
+6. the time that I use in this experiment is 120 seconds
